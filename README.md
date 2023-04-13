@@ -1,0 +1,2 @@
+# VariedadesOperadores
+exercícios Java 
